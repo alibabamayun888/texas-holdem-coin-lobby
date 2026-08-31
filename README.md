@@ -1,4 +1,4 @@
-# 德州积分大厅源码｜德州金币大厅源码
+# 德州积分大厅源码｜德州金币大厅源码｜Commercial Texas Hold'em Gold Coin Lobby Source Code | High-Revenue Poker Platform， 6 种玩法 | 完整运营后台 | 快速二次开发
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++17">
@@ -14,7 +14,7 @@
 <h1 align="center">🃏 Texas Hold'em Coin Lobby</h1>
 
 <p align="center">
-  <b>德州金币大厅源码 / 德州积分大厅源码 — 商业级高流水棋牌游戏平台</b><br>
+  <b>德州金币大厅源码 / 德州积分大厅源码 — 商业级棋牌游戏平台</b><br>
   <b>Commercial Texas Hold'em Gold Coin Lobby Source Code | High-Revenue Poker Platform</b><br>
   <b>支持 iOS / Android 上架 | 6 种玩法 | 完整运营后台 | 快速二次开发</b>
 </p>
@@ -50,15 +50,15 @@
 
 ## 项目简介
 
-**Texas Hold'em Coin Lobby（德州金币大厅 / 德州积分大厅）** 是一套完整的**商业级高流水棋牌游戏平台源码**，专为追求快速上线和高收益的运营商打造。
+**Texas Hold'em Coin Lobby（德州金币大厅 / 德州积分大厅）** 是一套完整的**商业级高流水棋牌游戏平台源码**
 
-本系统包含 **6 种核心扑克玩法**、**完整的商城与社交系统**、**丰富的运营活动模块**，以及 **Java SpringBoot 运营后台**，支持**中文、英文等多语言**，可快速打包上架 **iOS App Store** 和 **Google Play**。
+本系统包含 **6 种核心扑克玩法**、**完整的商城与社交系统**、**丰富的运营活动模块**，以及 **Java SpringBoot 运营后台**，支持**中文、英文等多语言**。
 
-> **适合搜索关键词**：德州金币大厅源码、德州积分大厅源码、Poker Gold Lobby Source Code、Texas Hold'em Coin Platform、棋牌游戏源码、Poker App Source Code、高流水棋牌项目、Unity 扑克源码、C++ 棋牌服务器、棋牌运营后台、棋牌上架 iOS、棋牌上架 Google Play、金币场棋牌源码、积分场棋牌源码、棋牌二开、棋牌换皮、棋牌出海
+> **适合搜索关键词**：德州金币大厅源码、德州积分大厅源码、Poker Gold Lobby Source Code、Texas Hold'em Coin Platform、棋牌游戏源码、Poker App Source Code、高流水棋牌项目、Unity 扑克源码、C++ 棋牌服务器、棋牌运营后台、金币场棋牌源码、积分场棋牌源码、棋牌二开、
 
 | 语言 | 项目名称 |
 |------|---------|
-| 中文 | 德州金币大厅源码 / 德州积分大厅源码 / 棋牌高流水项目 |
+| 中文 | 德州金币大厅源码 / 德州积分大厅源码  |
 | English | Texas Hold'em Coin Lobby Source Code / Poker Gold Platform |
 | Tiếng Việt | Mã nguồn Sảnh Poker Texas Hold'em / Nền tảng game bài |
 | 日本語 | テキサスホールデムコインロビー ソースコード |
@@ -76,7 +76,7 @@
 | 🃏 6+ 短牌德州 | Short Deck / 6+ Hold'em | 去除 2-5 牌，顺子更易成牌，节奏更快 |
 | ⚡ 单桌锦标赛 | SNG (Sit & Go) | 满人即开，快速结算，适合碎片化时间 |
 | 🏆 多桌锦标赛 | MTT (Multi-Table Tournament) | 支持千人级参赛，淘汰晋级机制 |
-| 🏢 俱乐部模式 | Club Mode | 私人牌桌、朋友局、俱乐部联盟、代理分销 |
+| 🏢 俱乐部模式 | Club Mode | 私人牌桌、朋友局、俱乐部联盟|
 
 ---
 
@@ -84,7 +84,7 @@
 
 ### 核心系统模块
 
-- 🛍️ **商城系统** — 金币/钻石充值、道具购买、VIP 礼包、限时折扣
+- 🛍️ **商城系统** — 金币/钻石、道具购买、VIP 礼包、限时折扣
 - 👤 **个人中心** — 头像、昵称、战绩、资产、等级、成就系统
 - 🎁 **宝箱系统** — 青铜/白银/黄金/钻石宝箱，定时开启奖励
 - 📊 **排行榜** — 日榜/周榜/月榜/总榜，财富榜/胜率榜/牌局榜
@@ -98,7 +98,7 @@
 
 ## 运营活动
 
-内置 **9 大运营活动模块**，助力快速拉新、促活、留存、变现：
+内置 **9 大运营活动模块**，助力快速拉新、促活、留存：
 
 | 活动 | 功能描述 | 运营目标 |
 |------|---------|---------|
@@ -108,8 +108,8 @@
 | 🚀 邀请好友 | 邀请码裂变，双方得金币奖励 | 拉新、裂变 |
 | 💰 JackPot 奖池 | 全局累积奖池，随机触发大奖 | 刺激、留存 |
 | 🎫 刮刮乐彩票 | 虚拟刮刮卡，即时开奖 | 趣味、活跃 |
-| 🎡 转盘活动 | 幸运大转盘，免费/付费抽奖 | 变现、活跃 |
-| 📺 免费看广告 | 观看激励视频广告得金币 | 广告变现、零氪留存 |
+| 🎡 转盘活动 | 幸运大转盘，免费/付费抽奖 | 、活跃 |
+| 📺 免费看广告 | 观看激励视频广告得金币 | 广告盈利，零氪留存 |
 
 ---
 
@@ -137,23 +137,10 @@
 - 🇹🇭 **ภาษาไทย** — 泰国棋牌热门市场
 - 🇮🇩 **Bahasa Indonesia** — 印尼新兴市场
 
-> 语言包采用 JSON 配置化设计，**新增语言仅需翻译文件，无需改代码**。
-
----
-
-## 上架支持
-
-本项目已针对主流应用商店上架要求优化：
-
-- ✅ **iOS App Store** — 支持 iOS 12.0+，已处理苹果审核常见拒审点（IAP、隐私协议、年龄分级）
-- ✅ **Google Play** — 支持 Android 5.0+，已配置 64 位 ABI、Android App Bundle
-- ✅ **隐私合规** — GDPR、CCPA 隐私协议模板内置
-- ✅ **支付接入** — 苹果 IAP、Google Play Billing、第三方支付接口预留
-- ✅ **防沉迷提示** — 符合多国棋牌游戏运营规范
 
 
 
----
+
 
 ## 快速二开
 
@@ -307,15 +294,15 @@ java -jar Admin/target/admin-1.0.0.jar
 
 **Q1: 这个项目可以商用吗？需要授权吗？**
 
-A: 源码仅供学习研究。如需商用上线运营，请联系获取商业授权协议
+A: 源码仅供学习研究
 
 **Q2: 支持哪些平台？可以上架 App Store 吗？**
 
-A: 支持 iOS 12+ 和 Android 5+，已针对 App Store 和 Google Play 审核要求优化，最快 3 天可提交审核。
+A: 支持 iOS 12+ 和 Android 5+。
 
 **Q3: 二次开发难度大吗？需要多少人团队？**
 
-A: 模块化设计，UI/音效/配置均可快速替换。最小团队 1 名 Unity 开发 + 1 名服务端开发即可在 2 周内完成换皮上线。
+A: 模块化设计，UI/音效/配置均可快速替换。最小团队 1 名 Unity 开发 + 1 名服务端开发即可在。
 
 **Q4: 最大支持多少人在线？**
 
@@ -335,7 +322,7 @@ A: 支持。Unity 客户端采用 AssetBundle + Addressables 热更新方案，�
 
 **Q8: 运营后台有哪些功能？**
 
-A: 运营后台包含：玩家管理、订单管理、活动配置、GM 工具、数据报表、代理分销管理、风控审计、客服系统。
+A: 运营后台包含：玩家管理、订单管理、活动配置、GM 工具、数据报表、分销管理、风控审计、客服系统。
 
 ---
 
@@ -343,7 +330,7 @@ A: 运营后台包含：玩家管理、订单管理、活动配置、GM 工具�
 
 > 以下关键词用于搜索引擎索引，覆盖全球多语言搜索场景
 
-**中文关键词：** 德州金币大厅源码、德州积分大厅源码、棋牌游戏源码、高流水棋牌项目、Unity 扑克源码、C++ 棋牌服务器、棋牌运营后台、德州扑克 APP 源码、棋牌上架 iOS、棋牌上架 Google Play、金币场棋牌源码、积分场棋牌源码、棋牌二开、棋牌换皮、棋牌出海、棋牌多语言源码、棋牌广告变现、棋牌裂变系统、棋牌商城系统、棋牌宝箱系统、棋牌排行榜、棋牌保险箱、棋牌好友系统、棋牌邮件系统、棋牌任务系统、棋牌每日登录、棋牌 JackPot、棋牌刮刮乐、棋牌转盘活动、棋牌免费广告
+**中文关键词：** 德州金币大厅源码、德州积分大厅源码、棋牌游戏源码、高流水棋牌项目、Unity 扑克源码、C++ 棋牌服务器、棋牌运营后台、德州扑克 APP 源码、金币场棋牌源码、积分场棋牌源码、棋牌二开、棋牌出海、棋牌多语言源码、棋牌裂变系统、棋牌商城系统、棋牌宝箱系统、棋牌排行榜、棋牌保险箱、棋牌好友系统、棋牌邮件系统、棋牌任务系统、棋牌每日登录、棋牌 JackPot、棋牌刮刮乐、棋牌转盘活动、棋牌免费广告
 
 **English Keywords:** Texas Hold'em Coin Lobby Source Code, Poker Gold Platform Source Code, Poker App Source Code, Unity Poker Game Source Code, C++ Poker Server, High Revenue Poker Platform, Casino Game Source Code, Card Game Engine, Poker Game Development, Poker Club System, Multiplayer Poker Game, Online Poker Backend, Poker Tournament Software, Poker Game for iOS, Poker Game for Android, Poker Game White Label, Poker Game Reskin, Poker Gold Coin Lobby, Poker Points Lobby, Poker Game Admin Panel, Poker Game Operation System, Poker Game Store System, Poker Game Daily Bonus, Poker Game Jackpot, Poker Game Scratch Card, Poker Game Lucky Wheel, Poker Game Ad Monetization
 
@@ -358,7 +345,7 @@ A: 运营后台包含：玩家管理、订单管理、活动配置、GM 工具�
 本项目采用自定义许可证。
 
 - 📚 **学习用途**：允许自由下载、学习、研究
-- ⚠️ **禁止**：未经授权的转售、分发、SaaS 化运营、直接上架应用商店
+- ⚠️ **禁止**：未经授权的转售、分发、SaaS 化运营
 
 This software is provided for **learning, research, and demonstration purposes only**. Commercial use requires a separate license agreement.
 
