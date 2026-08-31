@@ -1,3 +1,5 @@
+# 德州积分大厅源码｜德州金币大厅源码
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++17">
   <img src="https://img.shields.io/badge/Unity-2022+-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 2022+">
@@ -5,6 +7,9 @@
   <img src="https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8.0">
   <img src="https://img.shields.io/badge/iOS%20%7C%20Android-AppStore%20%7C%20GooglePlay-blueviolet?style=for-the-badge" alt="iOS Android">
 </p>
+
+[简体中文](README.md) | [English](README.en.md) | [繁體中文](README.zh-TW.md)
+
 
 <h1 align="center">🃏 Texas Hold'em Coin Lobby</h1>
 
@@ -146,7 +151,7 @@
 - ✅ **支付接入** — 苹果 IAP、Google Play Billing、第三方支付接口预留
 - ✅ **防沉迷提示** — 符合多国棋牌游戏运营规范
 
-> 💡 **快速上架**：替换美术资源、配置支付参数、填写隐私协议，**最快 3 天可提交审核**。
+
 
 ---
 
@@ -302,7 +307,7 @@ java -jar Admin/target/admin-1.0.0.jar
 
 **Q1: 这个项目可以商用吗？需要授权吗？**
 
-A: 源码仅供学习研究。如需商用上线运营，请联系获取商业授权协议和技术支持。
+A: 源码仅供学习研究。如需商用上线运营，请联系获取商业授权协议
 
 **Q2: 支持哪些平台？可以上架 App Store 吗？**
 
