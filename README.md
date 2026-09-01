@@ -1,4 +1,4 @@
-# 德州积分大厅源码｜德州金币大厅源码｜Commercial Texas Hold'em Gold Coin Lobby Source Code | High-Revenue Poker Platform， 6 种玩法 | 完整运营后台 | 快速二次开发
+# 德州积分大厅源码｜德州金币大厅源码｜Commercial Texas Hold'em Gold Coin Lobby Source Code | High-Revenue Poker Platform， 6 种玩法 | 完整运营后台 
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++17">
@@ -44,7 +44,6 @@
 - [项目结构](#项目结构)
 - [部署指南](#部署指南)
 - [常见问题](#常见问题)
-- [SEO关键词](#seo关键词)
 - [许可证](#许可证)
 - [联系我们](#联系我们)
 
@@ -52,18 +51,16 @@
 
 ## 项目简介
 
-**Texas Hold'em Coin Lobby（德州金币大厅 / 德州积分大厅）** 是一套完整的**商业级高流水棋牌游戏平台源码**
+**Texas Hold'em Coin Lobby（德州金币大厅 / 德州积分大厅）** 是一套完整的**商业级棋牌游戏平台源码**
 
 本系统包含 **6 种核心扑克玩法**、**完整的商城与社交系统**、**丰富的运营活动模块**，以及 **Java SpringBoot 运营后台**，支持**中文、英文等多语言**。
 
-> **适合搜索关键词**：德州金币大厅源码、德州积分大厅源码、Poker Gold Lobby Source Code、Texas Hold'em Coin Platform、棋牌游戏源码、Poker App Source Code、高流水棋牌项目、Unity 扑克源码、C++ 棋牌服务器、棋牌运营后台、金币场棋牌源码、积分场棋牌源码、棋牌二开、
+
 
 | 语言 | 项目名称 |
 |------|---------|
 | 中文 | 德州金币大厅源码 / 德州积分大厅源码  |
 | English | Texas Hold'em Coin Lobby Source Code / Poker Gold Platform |
-| Tiếng Việt | Mã nguồn Sảnh Poker Texas Hold'em / Nền tảng game bài |
-| 日本語 | テキサスホールデムコインロビー ソースコード |
 
 ---
 
@@ -84,7 +81,6 @@
 
 ## 系统功能
 
-### 核心系统模块
 
 - 🛍️ **商城系统** — 金币/钻石、道具购买、VIP 礼包、限时折扣
 - 👤 **个人中心** — 头像、昵称、战绩、资产、等级、成就系统
@@ -130,23 +126,6 @@
 
 ---
 
-## 多语言支持
-
-- 🇨🇳 **简体中文** — 完整本地化
-- 🇺🇸 **English** — 全球化出海标配
-- 🇻🇳 **Tiếng Việt** — 东南亚热门市场
-- 🇯🇵 **日本語** — 日韩高端市场
-- 🇹🇭 **ภาษาไทย** — 泰国棋牌热门市场
-- 🇮🇩 **Bahasa Indonesia** — 印尼新兴市场
-
-
-
-
-
-
-## 快速二开
-
-本项目采用**模块化架构设计**，二次开发效率极高：
 
 ### 可快速替换模块
 
@@ -186,28 +165,8 @@ vim Admin/src/main/resources/application.yml
 ```text
 texas-holdem-coin-lobby/
 ├── Client/                    # Unity 客户端
-│   ├── Assets/
-│   │   ├── Scripts/           # C# 游戏逻辑
-│   │   ├── Resources/         # 预制体、材质、语言包
-│   │   ├── Plugins/           # 原生插件（支付、广告、分享）
-│   │   └── StreamingAssets/   # 热更新资源
-│   └── Build/                 # iOS / Android 打包脚本
 ├── Server/                    # C++ 游戏服务端
-│   ├── Core/                  # 核心游戏引擎（发牌、结算、牌型）
-│   ├── Network/               # 网络层（WebSocket / TCP）
-│   ├── DB/                    # 数据库 ORM 与缓存
-│   ├── Matchmaking/           # 匹配系统（SNG / MTT / Cash）
-│   ├── Club/                  # 俱乐部与代理系统
-│   └── Gateway/               # 网关与负载均衡
-├── Admin/                     # Java 运营后台
-│   ├── src/main/java/         # SpringBoot 后端
-│   ├── src/main/resources/    # 配置文件
-│   └── frontend/              # Vue3 管理后台
-├── Proto/                     # Protobuf 通信协议
-├── Config/                    # 游戏配置（盲注、赔率、活动）
-├── Docker/                    # Docker 镜像与编排
 ├── Docs/                      # 部署文档、API 文档、上架指南
-├── Tests/                     # 单元测试与压测脚本
 └── README.md                  # 本文件
 ```
 
@@ -289,7 +248,6 @@ java -jar Admin/target/admin-1.0.0.jar
 |------|---------|
 | 📧 Email | ttpoker40@gmail.com |
 | 💬 Telegram | [@alibabama401](https://t.me/alibabama401) |
-| 🐛 Issues | [GitHub Issues](https://github.com/alibabamayun888/texas-holdem-coin-lobby/issues) |
 
 ---
 ## 常见问题
@@ -310,9 +268,9 @@ A: 模块化设计，UI/音效/配置均可快速替换。最小团队 1 名 Uni
 
 A: 单节点部署支持 10,000 并发，通过 K8s 横向扩展可支撑百万级 DAU。
 
-**Q5: 数据库用 MySQL 还是 PostgreSQL？**
+**Q5: 数据库用 MySQL ？**
 
-A: 当前版本使用 MySQL 8.0。PostgreSQL 支持正在开发中，预计 v2.0 版本发布。
+A: 当前版本使用 MySQL 8.0。。
 
 **Q6: 如何接入自己的支付渠道？**
 
@@ -326,21 +284,6 @@ A: 支持。Unity 客户端采用 AssetBundle + Addressables 热更新方案，�
 
 A: 运营后台包含：玩家管理、订单管理、活动配置、GM 工具、数据报表、分销管理、风控审计、客服系统。
 
----
-
-## SEO关键词
-
-> 以下关键词用于搜索引擎索引，覆盖全球多语言搜索场景
-
-**中文关键词：** 德州金币大厅源码、德州积分大厅源码、棋牌游戏源码、高流水棋牌项目、Unity 扑克源码、C++ 棋牌服务器、棋牌运营后台、德州扑克 APP 源码、金币场棋牌源码、积分场棋牌源码、棋牌二开、棋牌出海、棋牌多语言源码、棋牌裂变系统、棋牌商城系统、棋牌宝箱系统、棋牌排行榜、棋牌保险箱、棋牌好友系统、棋牌邮件系统、棋牌任务系统、棋牌每日登录、棋牌 JackPot、棋牌刮刮乐、棋牌转盘活动、棋牌免费广告
-
-**English Keywords:** Texas Hold'em Coin Lobby Source Code, Poker Gold Platform Source Code, Poker App Source Code, Unity Poker Game Source Code, C++ Poker Server, High Revenue Poker Platform, Casino Game Source Code, Card Game Engine, Poker Game Development, Poker Club System, Multiplayer Poker Game, Online Poker Backend, Poker Tournament Software, Poker Game for iOS, Poker Game for Android, Poker Game White Label, Poker Game Reskin, Poker Gold Coin Lobby, Poker Points Lobby, Poker Game Admin Panel, Poker Game Operation System, Poker Game Store System, Poker Game Daily Bonus, Poker Game Jackpot, Poker Game Scratch Card, Poker Game Lucky Wheel, Poker Game Ad Monetization
-
-**Tiếng Việt:** Mã nguồn Sảnh Poker, Mã nguồn game bài đổi thưởng, Nền tảng Poker Texas Hold'em, Game bài online, Mã nguồn game bài Unity, Hệ thống quản lý game bài, Game bài iOS, Game bài Android
-
-**日本語:** テキサスホールデム コインロビー ソースコード、ポーカーゲーム ソースコード、Unity ポーカー 開発、カジノゲーム エンジン、高収益 ポーカープラットフォーム、ポーカー 管理画面、ポーカー ストアシステム、ポーカー デイリーボーナス、ポーカー ジャックポット
-
----
 
 ## 许可证
 
