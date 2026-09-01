@@ -68,10 +68,6 @@
 | 營運後台 | Java，支援活动配置、用户管理、数据统计和營運管理 |
 | 資料庫 | MySQL，存储用户、牌局、资产、活动和後台配置数据 |
 
-## SEO 关键词
-
-德州積分大廳原始碼、德州金幣大廳原始碼、德州扑克原始碼、德州扑克俱乐部原始碼、德州赛事原始碼、Texas Holdem source code、Poker coin lobby source code、Poker club platform、AOF poker、Short Deck Poker、SNG poker、MTT poker、Unity poker game、C++ poker server、Java admin backend、MySQL poker database。
-
 ## 聯絡方式
 
 - Email：`ttpoker40@gmail.com`
